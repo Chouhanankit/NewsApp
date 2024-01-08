@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;300;400&family=Montserrat:wght@300&family=Oswald&family=Raleway:ital,wght@1,300&family=Rubik&display=swap');
+
+* {
+    font-family: 'Rubik', sans-serif;
+}
+/* Navbar css */
+li {
+    border-bottom: 2px solid transparent;
+    transition: all 0.4s ease-in-out;
+}
+
+li:hover {
+    border-bottom: 2px solid rgb(255, 193, 7);
+
+}
